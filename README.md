@@ -9,7 +9,7 @@ In this repository, more sophistacted deep learning techniques will be used, to 
 ## Overview
 
 Electrical properties of cells such as impedance, capacitances, conductivity, 
-permeability, and resistibility are emerging as non-invasive biomarkers for cancer detection and classification. This projects leverages such features to classifiy four distinct breast cancer cell lines using neural network implemented in PyTorch. These cell lines are: HS578t, MCF7, MDA-MB-231, and T47D.
+permeability, and resistibility are emerging as non-invasive biomarkers for cancer detection and classification. This projects leverages such features to classifiy four distinct breast cancer cell lines using neural network implemented in PyTorch.
 
 ## Objectives
 
@@ -19,7 +19,7 @@ permeability, and resistibility are emerging as non-invasive biomarkers for canc
 
 ## Dataset
 
-The dataset consists of four breast cancer cell lines. Each cell line is represented by a separate Excel file containing multiple sheets. Each sheet corresponds to different experimental conditions or measurement sessions.
+The dataset consists of four breast cancer cell lines. These cell lines are: HS578t, MCF7, MDA-MB-231, and T47D. Each cell line is represented by a separate Excel file containing multiple sheets. Each sheet corresponds to different experimental conditions or measurement sessions.
 
 Note: Due to privacy or publication constraints, the dataset is not publicly included in this repository.
 
